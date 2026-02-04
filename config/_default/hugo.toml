@@ -39,3 +39,8 @@ disableLanguages = ['pir']
   home = ['html', 'rss', 'print']
   section = ['html', 'rss', 'print']
   page = ['html', 'print']
+
+# Set cache for Github Pages to work
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
