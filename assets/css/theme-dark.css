@@ -1,0 +1,11 @@
+@import "theme-zen-dark.css"
+
+@font-face {
+    font-family: "LondonBetween";
+    src: url('/static/fonts/LondonBetween.woff2') format('woff2');
+}
+
+:root {
+    --LOGO-IMAGE-color: #ffffff;
+    --LOGO-IMAGE-HOVER-color: #ffffff;
+}
